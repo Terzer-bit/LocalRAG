@@ -13,10 +13,10 @@
 	- [Running the AI](#runningai)
 4. [Contact](#contact)
 
-![Python](https://img.shields.io/badge/Python-3.12.2-green)  ![Ollama|94](https://img.shields.io/badge/Ollama-0.12.3-blue)  ![Langchain](https://img.shields.io/badge/LangChain-0.3.27-orange)  ![License](https://img.shields.io/badge/License-GPL_3.0-black)
-
 ### <a name="projectoverview"></a>Project Overview
 ----
+![Python](https://img.shields.io/badge/Python-3.12.2-green)  ![Ollama|94](https://img.shields.io/badge/Ollama-0.12.3-blue)  ![Langchain](https://img.shields.io/badge/LangChain-0.3.27-orange)  ![License](https://img.shields.io/badge/License-GPL_3.0-black)
+
 A private AI assistant powered by your own documents. Ask questions and get fast, context-aware answers directly from your knowledge base
 
 *Note: Currently the models only answer in Spanish for convenience, but it can be easily changed*
