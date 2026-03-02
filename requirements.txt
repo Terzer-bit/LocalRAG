@@ -1,0 +1,11 @@
+langchain>=0.3.0,<0.4.0
+langchain-community
+langchain-core
+langchain-ollama
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
+docx2txt
+streamlit
+chainlit
