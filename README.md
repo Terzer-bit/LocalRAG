@@ -53,8 +53,6 @@ To be able to run the project, make sure to have the following tools installed:
 	
 	*Note: If your PC has low resources, download only gemma3:1b. You won’t be able to perform deeper searches, but it will still work.*
 
-	*See below forinstructions on how to switch models*
-
 
 #### <a name="installation"></a>Installation
 
