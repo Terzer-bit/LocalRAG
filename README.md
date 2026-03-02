@@ -104,6 +104,7 @@ Once the documents are properly set up, you can run the RAG with a single comman
 ```
 chainlit run app.py
 ```
+This will open a browser tab at `` http://localhost:8000/ ``, where you can interact with the AI through a web interface.
 
 ### <a name="contact"></a>Contact
 ---
