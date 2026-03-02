@@ -97,6 +97,8 @@ Please note that any time a change is made inside the `documents` folder after t
 
 #### <a name="runningai"></a>Running the AI
 
+*Work in grogress, right now make sure to have Ollama active by running* `` ollama list ``
+
 Once the documents are properly set up, you can run the RAG with a single command:
 
 ```
