@@ -8,8 +8,9 @@
 3. [Getting Started](#gettingstarted)
 	- [Prerequisites](#prerequisites)
 	- [Installation](#installation)
+4. [Running the Project](#runningproject)
 	- [Using your documents](#documents)
-	- [Running the AI](#running)
+	- [Running the AI](#runningai)
 4. [Contact](#contact)
 
 ### <a name="projectoverview"></a>Project Overview
@@ -76,6 +77,8 @@ To be able to run the project, make sure to have the following tools installed:
 	pip install -r requirements.txt 
 	```  
 
+### <a name="runningproject"></a>Running the Project
+---
 
 #### <a name="documents"></a>Using your documents
 
@@ -91,7 +94,7 @@ python ingest.py
 Please note that any time a change is made inside the `documents` folder after the first ingestion, the files won’t be usable unless the ingestion script is run again.
 
 
-#### <a name="running"></a>Running the AI
+#### <a name="runningai"></a>Running the AI
 
 Once the documents are properly set up, you can run the RAG with a single command:
 
